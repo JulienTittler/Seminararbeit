@@ -4,17 +4,12 @@ Eigenständig programmiertes Java Programm zum Finden Kürzester-Wege mithilfe d
 # Beschreibung
 Ein im Rahmen eines W-Seminars mit Greenfoot erstelltes Programm zum Vergleich von Kürzeste-Wege-Algorithmen.
 
-Ersteller: Julien Tittler 
-
-Seminararbeitsthema: Vergleich von Kürzeste-Wege-Algorithmen zur Realisierung einer Nahverkehrsapp
-
-Seminar: Graphentheorie
-
-Seminarleitfach: Mathe
-
-Seminarleiter/in: StRin Lea Prüfer
-
-Schule: Gymnasium Kirchheim
+Ersteller: Julien Tittler \
+Seminararbeitsthema: Vergleich von Kürzeste-Wege-Algorithmen zur Realisierung einer Nahverkehrsapp \
+Seminar: Graphentheorie \
+Seminarleitfach: Mathe \
+Seminarleiter/in: StRin Lea Prüfer \
+Schule: Gymnasium Kirchheim \
 
 # Code-Quellen
 Zeitmessung:		https://docs.oracle.com/javase/7/docs/api/java/lang/System.html#nanoTime() [Aufruf am 04.10.2022, 19h]
